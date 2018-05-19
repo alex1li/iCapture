@@ -1,3 +1,5 @@
+Video of iCaputre: https://www.youtube.com/watch?v=-LOee_vs4Gc
+
 This is our final project for our ECE 3140 class. We could make any project as long as we used the FRDM-K64F microcontroller.
 
 iClicker is a very popular in-class polling system used by professors to take attendance, ask questions, and even give quizzes. For such a popular system, and one that impacts a students' grade in a class, we wanted to explore how secure the network is.
